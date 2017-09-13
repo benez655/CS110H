@@ -20,4 +20,4 @@ while A>1:
     else:
         B=B*2
         mySum=B+mySum
-print(Z,'*', Y, '=', mySum)
+print(Z,'*',Y,'=',mySum)
