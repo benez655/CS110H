@@ -1,8 +1,6 @@
-'''
-Benjamin Day
-9/13/2017
-Homework 2
-'''
+#Benjamin Day
+#9/13/2017
+#Homework 2
 
 #give your income for the year
 income=float(input('How much did you make this year?: '))

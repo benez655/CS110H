@@ -1,8 +1,6 @@
-'''
-Benjamin Day
-8/30/2017
-Russian Peasant Mutiplication
-'''
+#Benjamin Day
+#8/30/2017
+#Russian Peasant Mutiplication
 
 #input two multiplicands into 'A' and 'B', 'mySum' is the total
 A=int(input('First Multiplicand = '))
