@@ -1,7 +1,7 @@
 '''
 Benjamin Day
 9/18/2017
-Quiz 1
+Quiz 1 q1
 '''
 
 #input 3 values and assign them to 'A','B', and 'C'
