@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f9028be-29df-42d6-b7cb-b1fe1ed59fe9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/901815697-q1.py" />
+    <list default="true" id="0f9028be-29df-42d6-b7cb-b1fe1ed59fe9" name="Default" comment="update">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/901815697-Q1.py" afterPath="$PROJECT_DIR$/.idea/901815697-Q1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -15,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="901815697-Q1.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="901815697-Q1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/901815697-Q1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="901815697-q1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/901815697-q1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+            <state relative-caret-position="-475">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,8 +50,8 @@
         <option value="$PROJECT_DIR$/RNG.py" />
         <option value="$PROJECT_DIR$/RusssianPeasant.py" />
         <option value="$PROJECT_DIR$/IncomeTax.py" />
-        <option value="$PROJECT_DIR$/.idea/901815697-Q1.py" />
         <option value="$PROJECT_DIR$/901815697-q1.py" />
+        <option value="$PROJECT_DIR$/.idea/901815697-Q1.py" />
       </list>
     </option>
   </component>
@@ -265,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505763849296</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1505764598873</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1505764598873</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -353,18 +349,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/901815697-Q1.py">
+    <entry file="file://$PROJECT_DIR$/901815697-q1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="470">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/901815697-q1.py">
+    <entry file="file://$PROJECT_DIR$/.idea/901815697-Q1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="-475">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
