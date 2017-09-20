@@ -7,14 +7,11 @@ while not done:
     print('')
     answer=int(input('Select an option please: '))
     if answer==1:
-        print('')
         print('A')
     elif answer==2:
-        print('')
         print('B')
     elif answer==3:
         done=True
-        print('')
         print('Goodbye')
     else:
         print('Try again')
