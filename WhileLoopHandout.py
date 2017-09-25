@@ -60,6 +60,6 @@ while not done:
         print('')
 
     if answer==4:
-        print('')
+        print(' ')
         print('Goodbye')
         done=True
