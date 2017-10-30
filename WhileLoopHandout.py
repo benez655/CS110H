@@ -10,7 +10,7 @@ while not done:
     print('2 - Even Sum')
     print('3 - Squares Sum')
     print('4 - Exit')
-    answer=int(input('What is you2r selection: '))
+    answer=int(input('What is your selection: '))
 
     if answer==1:
         'Write a program to identify the number of pairs in 4 numbers'
