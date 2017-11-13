@@ -14,7 +14,7 @@ var1 = smallest(int(input('First number?: ')), int(input('Second number?: ')), i
 print(var1)
 
 def average(x, y, z):
-    return (x*y*z)/3
+    return (x+y+z)/3
 print('Average Of 3 Integers')
 var2 = average(int(input('First number?: ')), int(input('Second number?: ')), int(input('Third number?: ')))
 print(var2)
